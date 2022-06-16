@@ -2,7 +2,7 @@
 /**
  * more_numbers - print 0 t 14 ten times
  *
- * Description: print out the required result
+ * Description: print out required result
  *
  * Return: return void
  *
